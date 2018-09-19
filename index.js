@@ -15,7 +15,7 @@ app.set('view engine', 'html');
 app.get('/', function(req, res) {
     res.render('index.html');
     // permanent redirect
-    //res.redirect(301, "http://your.tumblr.com");
+    //res.redirect(301, "http://yoursite.com");
 });
 
 // spin up server (appfog)
