@@ -1,5 +1,5 @@
 {
-  "name": "accessrequestform",
+  "name": "getduwu",
   "version": "0.0.1",
   "description": "",
   "main": "index.html",
@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,10 +18,10 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "http://www.getduwu.com"
   },
-  "homepage": "",
-  "subdomain": "accessrequestform",
+  "homepage": "http://www.getduwu.com",
+  "subdomain": "",
   "engines": {
     "node": "0.10.x"
   }
