@@ -1,0 +1,7 @@
+{
+  "name": "duwu",
+  "description": "",
+  "repository": "https://github.com/duwu-inc",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
