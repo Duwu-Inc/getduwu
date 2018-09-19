@@ -23,6 +23,6 @@
   "homepage": "http://www.getduwu.com",
   "subdomain": "",
   "engines": {
-    "node": "0.10.x"
+    "node": "8.9.3"
   }
 }
